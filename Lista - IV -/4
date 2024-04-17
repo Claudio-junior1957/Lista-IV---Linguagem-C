@@ -1,0 +1,21 @@
+#include <stdio.h>
+1
+int main() {
+    int quantidade;
+    float preco_unitario, preco_total;
+
+    printf("Digite a quantidade de macas desejadas: ");
+    scanf("%d", &quantidade);
+
+    if (quantidade < 12) {
+        preco_unitario = 1.30;
+    } else {
+        preco_unitario = 1.10;
+    }
+
+    preco_total = quantidade * preco_unitario;
+
+    printf("Preco total a ser pago: R$ %.2f\n", preco_total);
+
+    return 0;
+}
