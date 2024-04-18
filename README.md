@@ -1,2 +1,7 @@
 # Lista-IV---Linguagem-C
-Lista de exercícios IV da matéria de Algoritmos 
+## 1 - Solicita ao usuário que insira um número e, em seguida, verifica se o número é positivo, negativo ou neutro, e imprime uma mensagem correspondente.
+## 2 -Solicita ao usuário que insira um denominador e um numerador e, em seguida, verifica se a divisão entre o denominador e o numerador é exata, ou seja, se o resto da divisão é zero.
+## 3 - Solicita ao usuário que insira a quantidade de itens desejada e, em seguida, calcula o valor total a ser pago com base na quantidade de itens. Se a quantidade for menor que 12, o valor unitário por item é de R$1,30, caso contrário, o valor unitário por item é de R$1,10.
+## 4 - Solicita ao usuário que insira a quantidade de maçãs desejadas e calcula o preço total a ser pago com base nessa quantidade
+## 5 - Uma simulação de um sistema de pedidos em um estabelecimento de fast food. Ele exibe uma tabela de preços para diferentes itens de menu e permite ao usuário selecionar um item e a quantidade desejada. Em seguida, calcula o valor total da compra com base na opção selecionada e na quantidade.
+## 6 -  Calcula a média ponderada de um aluno com base em suas três notas e determina se ele está aprovado, precisa fazer uma prova final ou está reprovado. Se a média final for maior ou igual a 7, o aluno está aprovado. Se a média final estiver entre 3,5 e 7, o aluno precisa fazer uma prova final e, dependendo do resultado desta prova, ele pode ser aprovado ou reprovado. Caso contrário, o aluno está reprovado.
